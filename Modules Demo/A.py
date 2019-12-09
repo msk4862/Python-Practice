@@ -6,4 +6,5 @@
 
 def p():
     print('A')
+	print(__name__)
 
