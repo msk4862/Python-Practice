@@ -5,6 +5,6 @@
 
 
 def p():
-    print('A')
-	print(__name__)
+	print('A')
 
+p()
